@@ -11,7 +11,7 @@
 
   <br /><br />
 
-  <a href="https://docmind-ai-23cb.onrender.com](https://docmind-ai-nbsnknbbrdlshnaxmjx3iv.streamlit.app/)"><strong>→ Live Demo</strong></a>
+  <a href="(https://docmind-ai-nbsnknbbrdlshnaxmjx3iv.streamlit.app/)"](https://docmind-ai-nbsnknbbrdlshnaxmjx3iv.streamlit.app/)><strong>→ Live Demo</strong></a>
 </div>
 
 ---
