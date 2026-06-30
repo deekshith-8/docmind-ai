@@ -202,16 +202,7 @@ The generated answer and supporting source chunks are presented to the user.
 
 ---
 
-# Screenshots
 
-> Add screenshots of:
->
-> - Home page
-> - Uploading a PDF
-> - Asking a question
-> - Retrieved source chunks
-
----
 
 # License
 
